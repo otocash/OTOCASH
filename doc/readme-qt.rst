@@ -154,8 +154,8 @@ disable screen reader functionality for Qt apps:
 
 Build instructions (Ubuntu 16)
 ==============================
-
 ::
+
 - cd src/
 - make -j3 -f makefile.unix
 - apt-get install libleveldb-dev
