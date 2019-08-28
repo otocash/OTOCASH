@@ -5,11 +5,11 @@ http://www.otocash.io
 
 Copyright (c) 2018-2019 OTO CASH ENTERPRISE
 
+[![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
 [![License][license-badge]][license-page]
 
 [license-page]: LICENSE
 [license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg 
-[![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
 
 Report An Issues 
 ================
