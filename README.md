@@ -7,7 +7,7 @@ Copyright (c) 2018-2019 OTO CASH ENTERPRISE
 
 [![License][license-badge]][license-page]
 
-[license-page]: LICENSE.md
+[license-page]: LICENSE
 [license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg
 
 Report An Issues 
