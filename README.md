@@ -10,6 +10,8 @@ Copyright (c) 2018-2019 OTO CASH ENTERPRISE
 [license-page]: LICENSE
 [license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg
 
+[![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
+
 Report An Issues 
 ================
 
