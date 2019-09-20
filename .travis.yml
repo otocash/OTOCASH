@@ -54,14 +54,14 @@ script:
 
   - echo 'Package executables' && echo -en 'travis_fold:start:script.package\\r'
 
-  - export BUILD=otocash_`if [ "$TRAVIS_TAG" != "" ]; then [ "${TRAVIS_TAG:0:1}" == "v" ] && echo ${TRAVIS_TAG:1}_ || echo ${TRAVIS_TAG}_; fi`${BUILD}
+  - export BUILD=Otocash_`if [ "$TRAVIS_TAG" != "" ]; then [ "${TRAVIS_TAG:0:1}" == "v" ] && echo ${TRAVIS_TAG:1}_ || echo ${TRAVIS_TAG}_; fi`${BUILD}
   - export UPLOAD=${BUILD}.zip;
   - if [ -d release ]; then cd release; fi
-  - if [ -f Capricoin${OUTPUT_SUFFIX} ]; then install -s Capricoin${OUTPUT_SUFFIX} $INDIR/; export UPLOAD=${BUILD}.zip; fi
-  - if [ -d Capricoin.app ]; then contrib/macdeploy/createdmg; mv otocash.macosx.dmg $INDIR/${BUILD}.dmg; export UPLOAD=${BUILD}.dmg; fi
+  - if [ -f Otocash${OUTPUT_SUFFIX} ]; then install -s Otocash${OUTPUT_SUFFIX} $INDIR/; export UPLOAD=${BUILD}.zip; fi
+  - if [ -d Otocash.app ]; then contrib/macdeploy/createdmg; mv otocash.macosx.dmg $INDIR/${BUILD}.dmg; export UPLOAD=${BUILD}.dmg; fi
 
   - cd $INDIR
-  - if [ -f otocash${OUTPUT_SUFFIX} ]; then zip $INDIR/$UPLOAD OTOCASH${OUTPUT_SUFFIX} otocashd${OUTPUT_SUFFIX}; fi
+  - if [ -f Otocash${OUTPUT_SUFFIX} ]; then zip $INDIR/$UPLOAD Otocash${OUTPUT_SUFFIX} Otocashd${OUTPUT_SUFFIX}; fi
   - sha256sum $UPLOAD > $INDIR/${UPLOAD}.sha256sum.txt
 
   - echo -en 'travis_fold:end:script.package\\r'
@@ -73,9 +73,7 @@ after_script:
 
 deploy:
   - provider: releases
-    api_key:
-      secure: 57ba529098f6f30a88374d253862039d2b2ac44d
-    file: # Linter thinks this is broken?
+       file: # Linter thinks this is broken?
       - $INDIR/$UPLOAD
       - $INDIR/${UPLOAD}.sha256sum.txt
     overwrite: true
