@@ -73,6 +73,7 @@ after_script:
 
 deploy:
   - provider: releases
+  
        file: # Linter thinks this is broken?
       - $INDIR/$UPLOAD
       - $INDIR/${UPLOAD}.sha256sum.txt
