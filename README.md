@@ -5,9 +5,7 @@ http://www.otocash.io
 
 Copyright (c) 2018-2019 OTO CASH ENTERPRISE
 
-[![Build Status](https://travis-ci.org/otocash/masterbuilder
-.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder
-)
+[![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
 [![License][license-badge]][license-page]
 
 [license-page]: LICENSE
