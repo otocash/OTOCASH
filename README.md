@@ -1,5 +1,5 @@
 
-<img src="https://github.com/otocash/masterbuilder/blob/master/src/qt/res/images/githubbanner.png">
+[<img src="https://github.com/otocash/masterbuilder/blob/master/src/qt/res/images/githubbanner.png">](https://www.otocash.io)
 
 
 OTOCASH Core V1.0.2 
