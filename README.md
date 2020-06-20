@@ -31,6 +31,8 @@ OTOCASH (OTO) is a Scrypt-PoS Based Cryptocurrency, OTOCASH coin will be used on
 <tr><td>Average Block Time</td><td>140 Seconds</td></tr>
 <tr><td>Maturity</td><td>10 Confirmations</td></tr>
 <tr><td>Reward</td><td>0.0001 OTO</td></tr>
+<tr><td>Fee</td><td>0.0001 OTO</td></tr>
+<tr><td>Protocol#</td><td>120011</td></tr>
 <tr><td>P2P port</td><td>7011</td></tr>
 <tr><td>RPC port</td><td>7012</td></tr>
 <tr><td>Premine</td><td>38254582 OTO*</td></tr>
