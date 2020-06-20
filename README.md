@@ -4,12 +4,6 @@
 
 OTOCASH Core V1.0.2 
 ===================
-
-WWW.OTOCASH.IO
-
-
-Copyright (c) 2018-2020 OTO CASH ENTERPRISE
-
 [![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
 [![License][license-badge]][license-page]
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
@@ -19,6 +13,8 @@ Copyright (c) 2018-2020 OTO CASH ENTERPRISE
 
 [license-page]: LICENSE
 [license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg
+
+Copyright (c) 2018-2020 OTO CASH ENTERPRISE
 
 What is OTOCASH?
 ----------------
