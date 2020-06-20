@@ -8,9 +8,8 @@ OTOCASH Core V1.0.2
 [![License][license-badge]][license-page]
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/masterbuilder/releases/tag/v1.0.1)
-[![Issues](https://img.shields.io/github/issues-raw/masterbuilder//issues.svg?maxAge=25000)](https://github.com/otocash/masterbuilder/issues)
 [![Twitter Follow](https://img.shields.io/twitter/follow/otocashofficial.svg?style=social)](https://twitter.com/otocashofficial)
-[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discordapp.com/invite/Xunp5q5)  
+[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://t.me/otocashofficial)  
 
 [license-page]: LICENSE
 [license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg
