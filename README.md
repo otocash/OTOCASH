@@ -13,6 +13,8 @@ Copyright (c) 2018-2020 OTO CASH ENTERPRISE
 [![License][license-badge]][license-page]
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/tterb/hyde.svg?style=social)](https://twitter.com/otocashofficial)
+[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discordapp.com/invite/Xunp5q5)  
+
 
 [license-page]: LICENSE
 [license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg
