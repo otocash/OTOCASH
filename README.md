@@ -5,8 +5,8 @@
 OTOCASH Core V1.0.2 
 ===================
 
-[WWW.OTOCASH.IO]
----------------
+WWW.OTOCASH.IO
+
 
 Copyright (c) 2018-2020 OTO CASH ENTERPRISE
 
