@@ -16,16 +16,8 @@ Copyright (c) 2018-2020 OTO CASH ENTERPRISE
 [![Twitter Follow](https://img.shields.io/twitter/follow/otocashofficial.svg?style=social)](https://twitter.com/otocashofficial)
 [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discordapp.com/invite/Xunp5q5)  
 
-
 [license-page]: LICENSE
 [license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg
-
-Report An Issues 
-================
-
-This is the second [release](https://github.com/otocash/OTOCASH/releases) of OTOCASH Core if you find any bugs, Please report using the issue tracker on GitHub:
-
-https://github.com/otocash/OTOCASH/issues
 
 What is OTOCASH?
 ----------------
@@ -146,6 +138,13 @@ License
 
 OTOCASH Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
+
+Report An Issues 
+----------------
+
+This is the second [release](https://github.com/otocash/OTOCASH/releases) of OTOCASH Core if you find any bugs, Please report using the issue tracker on GitHub:
+
+https://github.com/otocash/OTOCASH/issues
 
 Disclaimer
 -------------------
