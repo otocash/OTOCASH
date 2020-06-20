@@ -69,9 +69,9 @@ See [build-msw.txt](/doc/build-msw.txt) , [build-osx.txt](/doc/build-osx.txt) or
 OTOCASH peer list
 
 ```
-- 104.168.99.53:7011	      /Satoshi:v1.0.0/	
+- 104.168.99.53:7011	    /Satoshi:v1.0.0/	
 - 185.136.163.178:7011      /Satoshi:v1.0.0/	
-- 198.54.121.78:7011	      /Otocash:v1.0.1/
+- 198.54.121.78:7011	    /Otocash:v1.0.1/
 - 111.90.150.205:7011       /Satoshi:v1.0.0/ 
 - 161.129.65.4:7011         /Otocash:v1.0.1/ 
 - 111.90.146.78:7011        /Otocash:v1.0.1/ 
