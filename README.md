@@ -2,10 +2,11 @@
 <img src="https://github.com/otocash/masterbuilder/blob/master/src/qt/res/images/githubbanner.png">
 
 
-OTOCASH Core staging tree V1.0.2 
-================================
+OTOCASH Core V1.0.2 
+===================
 
-http://www.otocash.io
+[WWW.OTOCASH.IO](https://www.otocash.io/#distribution)
+================
 
 Copyright (c) 2018-2020 OTO CASH ENTERPRISE
 
