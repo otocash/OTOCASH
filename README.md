@@ -12,8 +12,7 @@ Copyright (c) 2018-2020 OTO CASH ENTERPRISE
 [![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
 [![License][license-badge]][license-page]
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
-[![GitHub Release](https://img.shields.io/github/release/tterb/PlayMusic.svg?style=flat)](https://github.com/otocash/masterbuilder/releases/tag/v1.0.1)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/masterbuilder/releases/tag/v1.0.1)
 [![Twitter Follow](https://img.shields.io/twitter/follow/otocashofficial.svg?style=social)](https://twitter.com/otocashofficial)
 [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discordapp.com/invite/Xunp5q5)  
 
