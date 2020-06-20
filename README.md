@@ -1,9 +1,9 @@
-OTOCASH Core staging tree V1.0.1 
+OTOCASH Core staging tree V1.0.2 
 ================================
 
 http://www.otocash.io
 
-Copyright (c) 2018-2019 OTO CASH ENTERPRISE
+Copyright (c) 2018-2020 OTO CASH ENTERPRISE
 
 [![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
 [![License][license-badge]][license-page]
@@ -69,15 +69,15 @@ See [build-msw.txt](/doc/build-msw.txt) , [build-osx.txt](/doc/build-osx.txt) or
 OTOCASH peer list
 
 ```
-- 104.168.99.53:7011	    /Satoshi:v1.0.0/	
-- 185.136.163.178:7011      /Satoshi:v1.0.0/	
+- 104.168.99.53:7011	    /Otocash:v1.0.2/	
+- 185.136.163.178:7011      /Otocash:v1.0.2/	
 - 198.54.121.78:7011	    /Otocash:v1.0.1/
-- 111.90.150.205:7011       /Satoshi:v1.0.0/ 
+- 111.90.150.205:7011       /Otocash:v1.0.2/ 
 - 161.129.65.4:7011         /Otocash:v1.0.1/ 
 - 111.90.146.78:7011        /Otocash:v1.0.1/ 
 - 111.90.151.137:7011       /Otocash:v1.0.1/
-- 198.54.121.69:7011        /Otocash:v1.0.1/
-- 111.90.151.137:7011       /Otocash:v1.0.1/
+- 198.54.121.69:7011        /Otocash:v1.0.2/
+- 111.90.151.137:7011       /Otocash:v1.0.2/
 ```
 
 Copy this nodes to your wallet .conf file
