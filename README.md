@@ -2,7 +2,7 @@
 [<img src="https://github.com/otocash/masterbuilder/blob/master/src/qt/res/images/githubbanner.png">](https://www.otocash.io)
 
 
-OTOCASH Core V1.0.2 
+OTOCASH Core V1.1.2 
 ===================
 [![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
 [![License][license-badge]][license-page]
