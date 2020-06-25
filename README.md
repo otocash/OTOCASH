@@ -76,9 +76,9 @@ OTOCASH peer list
 - 111.90.151.137:7011       /Otocash:v1.0.1/
 - 198.54.121.69:7011        /Otocash:v1.0.2/
 - 185.136.169.110:7011       /Otocash:v1.0.2/
-- 185.136.163.114:7011        /Otocash:v1.0.2/
+- 185.136.163.114:7011      /Otocash:v1.0.2/
 - 111.90.151.137:7011       /Otocash:v1.0.2/
-- 128.199.225.197:7011       /Otocash:v1.0.2/
+- 128.199.225.197:7011      /Otocash:v1.0.2/
 ```
 
 Copy this nodes to your wallet .conf file
