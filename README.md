@@ -111,12 +111,12 @@ lots of money.
 OTOCASH testnet node
 
 ```
-- 199.192.16.64:17011	    /Otocash:v1.0.1/	
+- 185.136.169.110:17011	    /Otocash:v1.0.1/	
 ```
 Copy this nodes to your wallet .conf file
 
 ```
-- addnode=199.192.16.64:17011
+- addnode=185.136.169.110:17011
 ```
 
 
