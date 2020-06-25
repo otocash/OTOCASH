@@ -75,7 +75,10 @@ OTOCASH peer list
 - 111.90.146.78:7011        /Otocash:v1.0.1/ 
 - 111.90.151.137:7011       /Otocash:v1.0.1/
 - 198.54.121.69:7011        /Otocash:v1.0.2/
+- 185.136.169.110:7011       /Otocash:v1.0.2/
+- 185.136.163.114:7011        /Otocash:v1.0.2/
 - 111.90.151.137:7011       /Otocash:v1.0.2/
+- 128.199.225.197:7011       /Otocash:v1.0.2/
 ```
 
 Copy this nodes to your wallet .conf file
@@ -89,8 +92,10 @@ If you have problem to sync your wallet with Otocash blockchain - use the follow
 - addnode=161.129.65.4:7011 
 - addnode=111.90.146.78:7011
 - addnode=111.90.151.137:7011 
-- addnode=198.54.121.69:7011 
-- addnode=111.90.151.137:7011 
+- addnode=198.54.121.69:7011
+- addnode=185.136.169.110:7011 
+- addnode=185.136.163.114:7011
+- addnode=128.199.225.197:7011
 ```
 
 
