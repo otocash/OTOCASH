@@ -1,59 +1,56 @@
-OTOCASH Core staging tree V1.0.0 
-================================
 
-http://www.otocash.io
+[<img src="https://github.com/otocash/masterbuilder/blob/master/src/qt/res/images/githubbanner.png">](https://www.otocash.io)
 
-Copyright (c) 2018-2019 OTO CASH ENTERPRISE
 
-Report An Issues 
-================
+OTOCASH Core V1.1.2 
+===================
+[![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
+[![License][license-badge]][license-page]
+[![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/masterbuilder/releases/tag/v1.0.1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/otocashofficial.svg?style=social)](https://twitter.com/otocashofficial)
+[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://t.me/otocashofficial)  
 
-This is the first [release](https://github.com/otocash/OTOCASH/releases) of OTOCASH Core if you find any bugs, Please report using the issue tracker on GitHub:
+[license-page]: LICENSE
+[license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg
 
-https://github.com/otocash/OTOCASH/issues
+Copyright (c) 2018-2020 OTO CASH ENTERPRISE
 
 What is OTOCASH?
 ----------------
 
-OTOCASH (OTO) is a Scrypt-PoS Based Cryptocurrency, OTOCASH coin will be used on OTOCASH PAYMENT SYSTEM platform that enables buyers to use their OTO Tokens in order to pay sellers (private or merchants). We provide sellers with the safety and convenience with KYC for every user or merchants and offer the best consumer-protection to buyers and sellers.
+OTOCASH (OTO) is a Scrypt-PoS Based Cryptocurrency, OTOCASH coin will be used on OTOCASH PAYMENT SYSTEM platform that enables buyers to use their OTO Coin’s in order to pay sellers (private or merchants). We provide user or merchants with the safety and convenience with KYC and offer the best consumer-protection to buyers and sellers.
 
-World's today, made the transactions through the existing financial system has imposed a high charge. Almost 90% of the financial system that exists today cost more than 2% fees and is apparently very costly to consumers. To solve this problem, OTOCASH will create an innovation payment platform that will of free charge when using OTO's. The advancement of blockchain technology enables this to be realised by using our advanced formulas.
+### Coin Specs
+<table>
+<tr><td>Max Coin Supply</td><td>Unlimited</td></tr>
+<tr><td>Type</td><td>POS </td></tr>
+<tr><td>Algo</td><td>Script-PoS</td></tr>
+<tr><td>Average Block Time</td><td>140 Seconds</td></tr>
+<tr><td>Maturity</td><td>10 Confirmations</td></tr>
+<tr><td>Reward</td><td>0.0001 OTO</td></tr>
+<tr><td>Fee</td><td>0.0001 OTO</td></tr>
+<tr><td>Protocol#</td><td>120011</td></tr>
+<tr><td>P2P port</td><td>7011</td></tr>
+<tr><td>RPC port</td><td>7012</td></tr>
+<tr><td>Premine</td><td>38254582 OTO*</td></tr>
+</table>
 
-When you make payments and transactions to any seller or anyone in the world via cryptocurrency, you will always face doubt and fear of being deceived; No one wants to be a victim of fraud. For that, we develop something that will eliminate the user's fear.
+*View Coin Distribution on [otocash.io](https://www.otocash.io/#distribution)
 
-By creating an efficient system and platform for consumer help across the globe, it is doubtful that future affairs will be more fluent and become platforms that can be adapted to various forms of transactions and payments.
-
-With OTO's and major cryptocurrency for our platform is undoubtedly the future value of this coin will increase significantly.
-
-Ultimately, all investors, consumers, buyers, sellers and traders will have double their profit and continuously. With low-cost casings and the prospect of increasing the token value then all of us will be more comfortable dealing with OTO Coin and our platform.
-
-
-OTOCASH Coin
-----------------
-```
-- 38254582 total coins (Premine)
-- Block time: 60 seconds target
-- Rewards: 0.0001 OTO per block
-- Scrypt Proof of Work
-- Mineable by Staking
-- OTOCASH fees burned
-```
+### Reward Distribution
 For more information, as well as an immediately useable, binary version of
-the OTOCASH client sofware, see https://www.otocash.io.
+the OTOCASH client sofware, see https://www.otocash.io/otocash_documentation/.
 
 
 Development Process
 -------------------
 
-The `master` branch is meant to be stable. Development is normally done in same branches. [Tags](https://github.com/otocash/OTOCASH/tags) are created to indicate new official,stable release versions of OTOCASH Core.
-
-Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
+The `master` branch is meant to be stable. Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.. [Tags](https://github.com/otocash/OTOCASH/tags) are created to indicate new official,stable release versions of OTOCASH Core.
 
 The patch will be accepted if there is broad consensus that it is a good thing.  Developers should expect to rework and resubmit patches if they don't match the project's coding conventions [coding.txt](/doc/coding.txt) or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed to be completely stable. Tags are regularly created to indicate new stable release versions of OTOCASH.
-
-Feature branches are created when there are major new features being worked on by several people.
 
 From time to time a pull request will become outdated. If this occurs, and the pull is no longer automatically mergeable; a comment on the pull will be used to issue a warning of closure. The pull will be closed 15 days after the warning if action is not taken by the author. Pull requests closed in this manner will have their corresponding issue labeled 'stagnant'.
 
@@ -62,39 +59,44 @@ Issues with no commits will be given a similar warning, and closed after 15 days
 
 ### Building & Deploy
 
-See  [readme-qt](/doc/readme-qt.rst) for instructions on building OTOCASH QT,the intended-for-end-users, nice-graphical-interface, reference implementation of OTOCASH.
+See  [readme-qt](/doc/readme-qt.rst) and [coding.txt](/doc/coding.txt) for instructions on building OTOCASH QT,the intended-for-end-users, nice-graphical-interface, reference implementation of OTOCASH.
 
-See doc/build-*.txt for instructions on building otocashd,the intended-for-services, no-graphical-interface, reference
-implementation of OTOCASH.
+See [build-msw.txt](/doc/build-msw.txt) , [build-osx.txt](/doc/build-osx.txt) or [build-unix.txt](/doc/build-unix.txt) for instructions on building otocashd,the intended-for-services, no-graphical-interface, reference implementation of OTOCASH.
 
 
 OTOCASH peer list
 
 ```
-- 199.192.16.64:7011	    /Otocash:v1.0.0/	
-- 104.168.99.53:7011	    /Otocash:v1.0.0/	
-- 104.219.248.187:7011      /Otocash:v1.0.0/	
-- 199.192.21.195:7011	    /Otocash:v1.0.0/	
-- 185.136.163.178:7011      /Otocash:v1.0.0/	
-- 82.195.237.251:7011	    /Otocash:v1.0.0/	
-- 199.192.26.10:7011	    /Otocash:v1.0.0/	
-- 199.192.26.38:7011	    /Otocash:v1.0.0/	
-- 198.54.121.78:7011	    /Otocash:v1.0.0/	
+- 104.168.99.53:7011	    /Otocash:v1.0.2/	
+- 185.136.163.178:7011      /Otocash:v1.0.2/	
+- 198.54.121.78:7011	    /Otocash:v1.0.1/
+- 111.90.150.205:7011       /Otocash:v1.0.2/ 
+- 161.129.65.4:7011         /Otocash:v1.0.1/ 
+- 111.90.146.78:7011        /Otocash:v1.0.1/ 
+- 111.90.151.137:7011       /Otocash:v1.0.1/
+- 198.54.121.69:7011        /Otocash:v1.0.2/
+- 63.250.35.204:7011        /Otocash:v1.0.2/
+- 185.136.163.114:7011      /Otocash:v1.0.2/
+- 128.199.231.10:7011       /Otocash:v1.0.2/
+- 128.199.225.197:7011      /Otocash:v1.0.2/
 ```
 
 Copy this nodes to your wallet .conf file
 If you have problem to sync your wallet with Otocash blockchain - use the following nodes to fix it.
 
 ```
-- addnode=199.192.16.64:7011
 - addnode=104.168.99.53:7011
-- addnode=104.219.248.187:7011
-- addnode=199.192.21.195:7011
-- addnode=185.136.163.178:7011
-- addnode=82.195.237.251:7011
-- addnode=199.192.26.10:7011
-- addnode=199.192.26.38:7011
+- addnode=185.136.163.178:7011 
 - addnode=198.54.121.78:7011
+- addnode=111.90.150.205:7011
+- addnode=161.129.65.4:7011 
+- addnode=111.90.146.78:7011
+- addnode=111.90.151.137:7011 
+- addnode=198.54.121.69:7011
+- addnode=63.250.35.204:7011 
+- addnode=185.136.163.114:7011
+- addnode=128.199.231.10:7011
+- addnode=128.199.225.197:7011
 ```
 
 
@@ -105,6 +107,17 @@ Testing ([README](/src/test/README)) and code review is the bottleneck for devel
 requests than we can review and test on short notice. Please be patient and help out by testing
 other people's pull requests, and remember this is a security-critical project where any mistake might cost people
 lots of money.
+
+OTOCASH testnet node
+
+```
+- 185.136.169.110:17011	    /Otocash:v1.0.1/	
+```
+Copy this nodes to your wallet .conf file
+
+```
+- addnode=185.136.169.110:17011
+```
 
 
 ### Manual Quality Assurance (QA) Testing
@@ -128,6 +141,13 @@ License
 
 OTOCASH Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
+
+Report An Issues 
+----------------
+
+This is the second [release](https://github.com/otocash/OTOCASH/releases) of OTOCASH Core if you find any bugs, Please report using the issue tracker on GitHub:
+
+https://github.com/otocash/OTOCASH/issues
 
 Disclaimer
 -------------------
