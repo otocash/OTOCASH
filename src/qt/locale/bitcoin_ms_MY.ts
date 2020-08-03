@@ -25,8 +25,6 @@ Ini adalah perisian percubaan.
 Diagihkan di bawah lesen perisian MIT / X11, lihat fail yang disertakan PENYALINAN atau &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/a&gt;.
 
 Produk ini merangkumi perisian yang dikembangkan oleh OpenSSL Project untuk digunakan dalam OpenSSL Toolkit (&lt;a href=&quot;https://www.openssl.org/&quot;&gt;https://www.openssl.org/&lt;/a&gt;) dan perisian kriptografi yang ditulis oleh Eric Young (&lt;a href=&quot;mailto:eay@cryptsoft.com&quot;&gt;eay@cryptsoft.com&lt;/a&gt;) dan perisian UPnP yang ditulis oleh Thomas Bernard.
-
-Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://www.otocash.io/otocash_documentation/&quot;&gt;https://www.otocash.io/otocash_documentation/&lt;/a&gt;) dan di Github (&lt;a href=&quot;https://github.com/otocash/OTOCASH/&quot;&gt;https://github.com/otocash/OTOCASH/&lt;/a&gt;).
 </source>
         <translation type="unfinished"></translation>
     </message>
