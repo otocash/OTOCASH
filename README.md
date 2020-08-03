@@ -1,13 +1,12 @@
 
 [<img src="https://github.com/otocash/masterbuilder/blob/master/src/qt/res/images/githubbanner.png">](https://www.otocash.io)
 
-
-OTOCASH Core V1.1.2 
-===================
-[![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/masterbuilder)
+OTOCASH Core V1.1.2.4 
+=====================
+[![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/otocash)
 [![License][license-badge]][license-page]
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/masterbuilder/releases/tag/v1.0.1)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/masterbuilder/releases/tag/v1.1.2.4)
 [![Twitter Follow](https://img.shields.io/twitter/follow/otocashofficial.svg?style=social)](https://twitter.com/otocashofficial)
 [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://t.me/otocashofficial)  
 
@@ -28,8 +27,8 @@ OTOCASH (OTO) is a Scrypt-PoS Based Cryptocurrency, OTOCASH coin will be used on
 <tr><td>Algo</td><td>Script-PoS</td></tr>
 <tr><td>Average Block Time</td><td>140 Seconds</td></tr>
 <tr><td>Maturity</td><td>10 Confirmations</td></tr>
-<tr><td>Reward</td><td>0.0001 OTO</td></tr>
-<tr><td>Fee</td><td>0.0001 OTO</td></tr>
+<tr><td>Reward</td><td>0.25 OTO</td></tr>
+<tr><td>Fee</td><td>0.000001 OTO</td></tr>
 <tr><td>Protocol#</td><td>120011</td></tr>
 <tr><td>P2P port</td><td>7011</td></tr>
 <tr><td>RPC port</td><td>7012</td></tr>
@@ -67,18 +66,18 @@ See [build-msw.txt](/doc/build-msw.txt) , [build-osx.txt](/doc/build-osx.txt) or
 OTOCASH peer list
 
 ```
-- 104.168.99.53:7011	    /Otocash:v1.0.2/	
-- 185.136.163.178:7011      /Otocash:v1.0.2/	
-- 198.54.121.78:7011	    /Otocash:v1.0.1/
-- 111.90.150.205:7011       /Otocash:v1.0.2/ 
-- 161.129.65.4:7011         /Otocash:v1.0.1/ 
-- 111.90.146.78:7011        /Otocash:v1.0.1/ 
-- 111.90.151.137:7011       /Otocash:v1.0.1/
-- 198.54.121.69:7011        /Otocash:v1.0.2/
-- 63.250.35.204:7011        /Otocash:v1.0.2/
-- 185.136.163.114:7011      /Otocash:v1.0.2/
-- 128.199.231.10:7011       /Otocash:v1.0.2/
-- 128.199.225.197:7011      /Otocash:v1.0.2/
+- 104.168.99.53:7011	    /Otocash:v1.1.2.4/	 
+- 185.136.163.178:7011      /Otocash:v1.1.2.4/	
+- 198.54.121.78:7011	    /Otocash:v1.0.1/ 
+- 111.90.150.205:7011       /Otocash:v1.1.2.4/  
+- 161.129.65.4:7011         /Otocash:v1.1.2.4/ 
+- 111.90.146.78:7011        /Otocash:v1.1.2.4/ 
+- 111.90.151.137:7011       /Otocash:v1.1.2.4/ 
+- 198.54.121.69:7011        /Otocash:v1.1.2.4/ 
+- 107.152.213.111:7011      /Otocash:v1.1.2.4/
+- 185.136.163.114:7011      /Otocash:v1.1.2.4/ 
+- 128.199.231.10:7011       /Otocash:v1.1.2.4/ 
+- 128.199.225.197:7011      /Otocash:v1.1.2.4/ 
 ```
 
 Copy this nodes to your wallet .conf file
@@ -93,11 +92,13 @@ If you have problem to sync your wallet with Otocash blockchain - use the follow
 - addnode=111.90.146.78:7011
 - addnode=111.90.151.137:7011 
 - addnode=198.54.121.69:7011
-- addnode=63.250.35.204:7011 
+- addnode=107.152.213.111:7011 
 - addnode=185.136.163.114:7011
 - addnode=128.199.231.10:7011
 - addnode=128.199.225.197:7011
 ```
+
+
 
 
 Testing
@@ -154,5 +155,4 @@ Disclaimer
 
 OTOCASH project is The Future Financial System Currency.
 Invest at your own risk.
-
 
