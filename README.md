@@ -3,7 +3,7 @@
 
 OTOCASH Core V1.1.3 
 =====================
-[![Build Status](https://travis-ci.org/otocash/masterbuilder.svg?branch=master)](https://travis-ci.org/otocash/OTOCASH)
+[![Build Status](https://travis-ci.org/otocash/OTOCASH.svg?branch=master)](https://travis-ci.org/otocash/OTOCASH)
 [![License][license-badge]][license-page]
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/otocash/OTOCASH/releases/tag/v1.1.3)
@@ -45,7 +45,7 @@ the OTOCASH client sofware, see https://www.otocash.io/otocash_documentation/.
 Development Process
 -------------------
 
-The `master` branch is meant to be stable. Developers work in their own trees or at [HERE](https://github.com/otocash/otocash/masterbuilder), then submit pull requests when they think their feature or bug fix is ready.. [Tags](https://github.com/otocash/OTOCASH/tags) are created to indicate new official,stable release versions of OTOCASH Core.
+The `master` branch is meant to be stable. Developers work in their own trees or at [HERE](https://github.com/otocash/masterbuilder), then submit pull requests when they think their feature or bug fix is ready.. [Tags](https://github.com/otocash/OTOCASH/tags) are created to indicate new official,stable release versions of OTOCASH Core.
 
 The patch will be accepted if there is broad consensus that it is a good thing.  Developers should expect to rework and resubmit patches if they don't match the project's coding conventions [coding.txt](/doc/coding.txt) or are controversial.
 
