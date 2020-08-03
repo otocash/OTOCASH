@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="my" version="1.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="my" version="1.0">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -20,7 +20,7 @@ Hakcipta © 2018-2020 Pemaju OTOCASH</source>
     <message>
         <location line="+15"/>
         <source>
-Ini adalah perisian eksperimen.
+Ini adalah perisian percubaan.
 
 Diagihkan di bawah lesen perisian MIT / X11, lihat fail yang disertakan PENYALINAN atau &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/a&gt;.
 
@@ -139,7 +139,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location filename="../addresstablemodel.cpp" line="+145"/>
         <source>Label</source>
-        <translation>Label</translation>
+        <translation>Lebel</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -149,7 +149,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(tiada alamat)</translation>
+        <translation>(tiada lebel)</translation>
     </message>
 </context>
 <context>
@@ -157,12 +157,12 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>Passphrasendialog</translation>
+        <translation>Dialog kata laluan</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>Kata Laluan</translation>
+        <translation>Masukan Kata Laluan</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -187,7 +187,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+38"/>
         <source>Encrypt wallet</source>
-        <translation>Enkripsi dompet</translation>
+        <translation>Menyulitkan dompet</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -207,7 +207,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Decrypt dompet</translation>
+        <translation>Menyahsulitkan dompet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -259,7 +259,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location line="+82"/>
         <source>OTOCASH will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>OTOCASH akan ditutup sekarang untuk menyelesaikan proses penyulitan. Ingat bahawa menyulitkan dompet anda tidak dapat melindungi duit syiling anda sepenuhnya daripada dicuri oleh malware yang menjangkiti komputer anda</translation>
+        <translation>OTOCASH akan ditutup sekarang untuk menyelesaikan proses penyulitan. Ingat bahawa menyulitkan dompet anda tidak dapat melindungi koin anda sepenuhnya daripada dicuri oleh malware yang menjangkiti komputer anda</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -531,7 +531,7 @@ Maklumat tambahan berkaitan OTOCASH boleh didapati di (&lt;a href=&quot;https://
     <message>
         <location line="-812"/>
         <source>&amp;Dashboard</source>
-        <translation>&amp;Papan Pemuka</translation>
+        <translation>&amp;Papan Pemuka/translation>
     </message>
     <message>
         <location line="+6"/>
@@ -856,7 +856,7 @@ Alamat: %4</translation>
     <message>
         <location line="+2"/>
         <source>Copy fee</source>
-        <translation>Gebühr kopieren</translation>
+        <translation>Salin cas</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -970,7 +970,7 @@ Alamat: %4</translation>
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation>Edit alamay penerima</translation>
+        <translation>Edit alamat penerima</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1004,8 +1004,7 @@ Alamat: %4</translation>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
         <source>OTOCASH-Qt</source>
-        <translation>OTOCASH-Qt
-</translation>
+        <translation>OTOCASH-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1093,7 +1092,7 @@ Alamat: %4</translation>
     <message>
         <location line="+6"/>
         <source>Automatically open the OTOCASH client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Buka port klien OTOCASH secara automatik pada penghala. Ini hanya berfungsi apabila penghala anda menyokong UPnP dan diaktifkan.</translation>
+        <translation>Buka port pengguna OTOCASH secara automatik pada penghala. Ini hanya berfungsi apabila penghala anda menyokong UPnP dan diaktifkan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1118,7 +1117,7 @@ Alamat: %4</translation>
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>Port proksi (z.B. 9050)</translation>
+        <translation>Port proksi (cth. 9050)</translation>
     </message>
     <message>
         <location line="-57"/>
@@ -1208,7 +1207,7 @@ Alamat: %4</translation>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation>&amp;Memohon</translation>
+        <translation>&amp;Mohon</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+47"/>
@@ -1294,7 +1293,7 @@ Alamat: %4</translation>
     <message>
         <location line="+50"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Transacsi terkini&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Transaksi terkini&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="-118"/>
@@ -1563,8 +1562,7 @@ Alamat: %4</translation>
     <message>
         <location line="+2"/>
         <source>%1 GB</source>
-        <translation>%1 GB
-</translation>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1695,12 +1693,12 @@ Alamat: %4</translation>
     <message>
         <location line="+47"/>
         <source>Confirm the send action</source>
-        <translation>Confirm the send action</translation>
+        <translation>Sahkan tindakan hantar</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation>&amp;akhir</translation>
+        <translation>&amp;Hantar</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-171"/>
@@ -1745,7 +1743,7 @@ Alamat: %4</translation>
     <message>
         <location line="+85"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; bis %2 (%3)</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; kepada %2 (%3)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2226,7 +2224,7 @@ Alamat: %4</translation>
     <message>
         <location line="+0"/>
         <source>false</source>
-        <translation>slah</translation>
+        <translation>salah</translation>
     </message>
     <message>
         <location line="-202"/>
@@ -2236,10 +2234,7 @@ Alamat: %4</translation>
     <message numerus="yes">
         <location line="-36"/>
         <source>Open for %n more block(s)</source>
-        <translation>
-            <numerusform>Buka untuk %n lagi blok</numerusform>
-            <numerusform>Buka untuk %n lagi blok</numerusform>
-        </translation>
+        <translation>Buka untuk %n lagi blok</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -2305,17 +2300,17 @@ Alamat: %4</translation>
     <message>
         <location line="+3"/>
         <source>Unconfirmed</source>
-        <translation>Unbestätigt:</translation>
+        <translation>Tidak disahkan:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>wird Bestätigt (%1 von %2 Bestätigungen)</translation>
+        <translation>Mengesahkan (%1 dari %2 Pengesahan di cadangkan)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Conflicted</source>
-        <translation>Konflikt</translation>
+        <translation>Bercanggah</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2484,7 +2479,7 @@ Alamat: %4</translation>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>Edit label</translation>
+        <translation>Edit lebel</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2519,7 +2514,7 @@ Alamat: %4</translation>
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation>Label</translation>
+        <translation>Lebel</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2544,7 +2539,7 @@ Alamat: %4</translation>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>Could not write to file %1.</translation>
+        <translation>Tidak dapat menulis ke fail %1.</translation>
     </message>
     <message>
         <location line="+100"/>
@@ -2795,7 +2790,7 @@ Contoh: alertnotify=echo %%s | mail -s &quot;OTOCASH Alert&quot; admin@foo.com
     <message>
         <location line="+30"/>
         <source>Prepend debug output with timestamp</source>
-        <translation>Tambahkan output debug dengan cap waktu</translation>
+        <translation>Tambahkan penguluaran debug dengan cap waktu</translation>
     </message>
     <message>
         <location line="+36"/>
@@ -2924,7 +2919,7 @@ Contoh: alertnotify=echo %%s | mail -s &quot;OTOCASH Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>&lt;category&gt; boleh jadi:</source>
+        <source>&lt;kategori&gt; boleh jadi:</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3216,7 +3211,7 @@ Contoh: alertnotify=echo %%s | mail -s &quot;OTOCASH Alert&quot; admin@foo.com
     <message>
         <location line="-27"/>
         <source>Error</source>
-        <translation>Fehler</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <location line="+22"/>
