@@ -8,7 +8,6 @@ OTOCASH Core V1.1.3
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
 [![Version](https://img.shields.io/github/v/release/otocash/OTOCASH)](https://github.com/otocash/OTOCASH/releases/tag/v1.1.3)
 [![Twitter Follow](https://img.shields.io/twitter/follow/otocashofficial.svg?style=social)](https://twitter.com/otocashofficial)
-[![discord](https://img.shields.io/discord/Xunp5q5)](https://discordapp.com/invite/Xunp5q5)
 [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://t.me/otocashofficial)  
 
 [license-page]: LICENSE
@@ -76,7 +75,7 @@ OTOCASH peer list
 - 111.90.151.137:7011       /Otocash:v1.1.3/ 
 - 198.54.121.69:7011        /Otocash:v1.1.3/ 
 - 107.152.213.111:7011      /Otocash:v1.1.3/
-- 185.136.163.114:7011      /Otocash:v1.1.3/ 
+- 192.154.229.117:7011      /Otocash:v1.1.3/ 
 - 128.199.231.10:7011       /Otocash:v1.1.3/ 
 - 128.199.225.197:7011      /Otocash:v1.1.3/ 
 ```
@@ -94,7 +93,7 @@ If you have problem to sync your wallet with Otocash blockchain - use the follow
 - addnode=111.90.151.137:7011 
 - addnode=198.54.121.69:7011
 - addnode=107.152.213.111:7011 
-- addnode=185.136.163.114:7011
+- addnode=192.154.229.117:7011
 - addnode=128.199.231.10:7011
 - addnode=128.199.225.197:7011
 ```
