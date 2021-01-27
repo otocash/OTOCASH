@@ -8,7 +8,7 @@ OTOCASH Core V1.1.3
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://www.otocash.io/otocash_documentation/)
 [![Version](https://img.shields.io/github/v/release/otocash/OTOCASH)](https://github.com/otocash/OTOCASH/releases/tag/v1.1.3)
 [![Twitter Follow](https://img.shields.io/twitter/follow/otocashofficial.svg?style=social)](https://twitter.com/otocashofficial)
-[![discord](https://img.shields.io/discord/412898016371015680)](https://discordapp.com/invite/Xunp5q5)
+[![discord](https://img.shields.io/discord/Xunp5q5)](https://discordapp.com/invite/Xunp5q5)
 [![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://t.me/otocashofficial)  
 
 [license-page]: LICENSE
