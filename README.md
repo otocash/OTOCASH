@@ -66,9 +66,9 @@ See [build-msw.txt](/doc/build-msw.txt) , [build-osx.txt](/doc/build-osx.txt) or
 OTOCASH peer list
 
 ```
-- 104.168.99.53:7011	      /Otocash:v1.1.3/	 
+- 104.168.99.53:7011	     /Otocash:v1.1.3/	 
 - 185.136.169.110:7011      /Otocash:v1.1.3/	
-- 192.34.109.116:7011	      /Otocash:v1.1.3/ 
+- 192.34.109.116:7011	     /Otocash:v1.1.3/ 
 - 104.129.26.14:7011        /Otocash:v1.1.3/  
 - 185.136.171.154:7011      /Otocash:v1.1.3/ 
 - 151.106.60.122:7011       /Otocash:v1.1.3/ 
